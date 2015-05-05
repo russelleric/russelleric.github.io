@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-style: none;
+  font-family: Open Sans, sans-serif;
+}
+
+#header {
+  width: 512px;
+  margin: 0 auto;
+}
+
+
